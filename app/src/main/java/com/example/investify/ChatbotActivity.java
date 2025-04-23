@@ -19,7 +19,7 @@ public class ChatbotActivity extends AppCompatActivity {
     private final OkHttpClient client = new OkHttpClient();
 
     // Replace with your OpenRouter API key
-    private final String API_KEY = "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";  // <-- Replace this!
+    private final String API_KEY = "enter your own key bhaiii";  // <-- Replace this!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
