@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="investment_goals">
+        <item>Retirement</item>
+        <item>Education</item>
+        <item>Home Purchase</item>
+        <item>Car Purchase</item>
+        <item>Wealth Creation</item>
+        <item>Tax Saving</item>
+    </string-array>
+
+    <string-array name="risk_tolerance">
+        <item>Conservative (Low Risk)</item>
+        <item>Moderate (Medium Risk)</item>
+        <item>Aggressive (High Risk)</item>
+    </string-array>
+</resources>

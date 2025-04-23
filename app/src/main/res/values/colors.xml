@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color: a modern blue -->
+    <color name="primary">#1976D2</color>
+    <!-- Primary text: almost black for high contrast -->
+    <color name="primaryText">#212121</color>
+    <!-- Secondary text: medium gray -->
+    <color name="secondaryText">#757575</color>
+    <!-- Background: very light gray -->
+    <color name="background">#F5F5F5</color>
+    <color name="white">#F5F5F5</color>
+    <!-- Accent color (optional, for highlights) -->
+    <color name="accent">#FFC107</color>
+    <!-- Error color (optional) -->
+    <color name="error">#D32F2F</color>
+    <!-- Card background (optional) -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="text_hint">#757575</color>
+    <color name="text_primary">#212121</color>
+    <color name="background_light">#F5F5F5</color>
+
+</resources>

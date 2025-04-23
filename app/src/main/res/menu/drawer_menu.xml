@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_investments"
+        android:title="Plan your investments"
+        android:icon="@drawable/ic_investments"/>
+    <item
+        android:id="@+id/nav_expense"
+        android:title="Expense Tracker"
+        android:icon="@drawable/ic_expense"/>
+    <item
+        android:id="@+id/nav_news"
+        android:title="News"
+        android:icon="@drawable/ic_news"/>
+    <item
+        android:id="@+id/nav_quiz"
+        android:title="Finance Quiz"
+        android:icon="@drawable/ic_quiz"/>
+    <item
+        android:id="@+id/nav_close"
+        android:title="Close"
+        android:icon="@drawable/ic_close"/>
+    <item
+        android:id="@+id/nav_chatbot"
+        android:title="Chatbot"
+        android:icon="@drawable/bot"/>
+</menu>
