@@ -26,7 +26,7 @@ public class NewsActivity extends AppCompatActivity {
     private ProgressBar progressBar;
     private NewsAdapter newsAdapter;
     private AlphaVantageApi apiService;
-    private final String API_KEY = "KXUTPTE9HXLP2MOC";
+    private final String API_KEY = "Enter ur api key";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
