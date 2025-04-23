@@ -62,7 +62,7 @@ public class InvestmentPlanActivity extends AppCompatActivity {
     private ProgressBar progressBar;
 
     private AlphaVantageApi apiService;
-    private final String API_KEY = "KXUTPTE9HXLP2MOC";
+    private final String API_KEY = "enter ur key";
 
     // Get income from intent
     private int income = 0;
