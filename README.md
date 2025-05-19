@@ -1,17 +1,10 @@
 # 📈 Investify – Smart Investment Planner App
 
-Investify is an all-in-one Android application designed to simplify personal finance and investment planning. It offers users smart tools to plan investments, track expenses, monitor stocks, learn through quizzes, and stay updated with financial news — all in one app.
+Investify is an all-in-one Android application designed to simplify personal finance and investment planning. It offers users smart tools to plan investments, track expenses, monitor stocks, learn through quizzes, and stay updated with financial news .
 
 ---
 
-## 🏆 Project Highlights
 
-- ✅ Completed as part of my **Android Development Lab** coursework  
-- 🏅 Secured **A Grade** for the semester  
-- 🌱 Continuously evolving project with added features beyond the lab requirement  
-- 🤖 Built with **Java**, **XML**, and integrated APIs for real-time data  
-
----
 
 ## 🚀 Features Overview
 
@@ -86,39 +79,6 @@ Investify is an all-in-one Android application designed to simplify personal fin
 ### 💬 Chatbot Assistant  
 - Friendly chatbot to guide and answer investment-related queries  
 <img src="https://github.com/user-attachments/assets/3192ca71-85a1-4ced-a98a-2a2899a66836" width="200"/>
-
----
-
-## 🔧 Tech Stack
-
-- **Frontend:** Android (Java, XML)
-- **Backend:** Firebase (Authentication, Realtime Database)
-- **APIs Used:** Stock & Mutual Fund APIs, News API
-- **Tools:** Android Studio, GitHub, Firebase Console
-
----
-
-## 📚 Learning Outcomes
-
-- Learned how to build scalable Android apps with Firebase integration  
-- Gained hands-on experience with UI/UX, real-time data handling, and third-party APIs  
-- Understood key investment concepts and how to translate them into mobile features  
-
----
-
-## 📌 Future Enhancements
-
-- Add support for dark mode  
-- Implement in-app notifications for expense and investment alerts  
-- Add voice assistant integration  
-
----
-
-## 📫 Contact
-
-Looking forward to opportunities to contribute to your organization and grow in this domain.  
-📧 **Email:** prajwalchandru85@gmail.com  
-🔗 **GitHub:** [Prajwalchandru85](https://github.com/Prajwalchandru85)
 
 ---
 
